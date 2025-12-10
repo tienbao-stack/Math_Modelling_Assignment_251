@@ -32,6 +32,9 @@
 #### **🖼️ image.png**
 - **Mục đích**: Hình ảnh minh họa cho project
 - **Nội dung có thể**: Sơ đồ kiến trúc, flowchart, diagram mạng Petri, kết quả phân tích
+  1. Mô tả file input
+     <img width="1148" height="917" alt="image" src="https://github.com/user-attachments/assets/8d099371-c364-4593-ae4f-61f73245717a" />
+
 
 
 #### **📁 setup/** - *Thư mục thiết lập môi trường*
